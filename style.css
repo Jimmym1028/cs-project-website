@@ -42,7 +42,7 @@ abstract {
       
     }
 /* Container for history / modern / future */
-sections {
+.sections {
   display: flex;      /* puts definitions in orderly row*/
   justify-content: center;       /* centers the row */
   gap: 75px;                     /* space between each word*/
