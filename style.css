@@ -39,7 +39,7 @@ abstract {
     }
 .main-photo {
   width:95%;
-  max-width:1300px;
+  max-width:1200px;
   margin:30 px auto
 /* Container for history / modern / future */
 .sections {
@@ -72,7 +72,7 @@ abstract {
 }
 /* Modern Page Image*/
 .modern-img {
-  width: 350px;
+  width: 300px;
   display:block;
   margin: 30px auto;
 }
