@@ -90,6 +90,12 @@ ol {
 h3 {
   margin-top:40px;
 }
+.main-photo {
+  width:95%;
+  max-width:1400px;
+  display: block;
+  margin:30 px auto;
+}
   
   
     
