@@ -18,13 +18,13 @@ body {
   }
 /* line under title*/
 topic {
-  font-size: 35px;
+  font-size: 22px;
   font-weight: bold;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 /*Abstract paragraph*/
 abstract {
-  font-size: 32px;
+  font-size: 20px;
   max-width: 800px;     /* paragraph is not too wide*/
   margin:10px auto;     /* centers the block*/
   line-height:1.5;      
@@ -35,49 +35,49 @@ abstract {
       display: block;
       margin-left: auto;
       margin-right: auto;
-      margin-top: 20px;
-      width: 100%;
-      max-width: 1000px;
-      
-      
+      margin-top: 20px; 
     }
+.main-photo {
+  width:95%;
+  max-width:1400px;
+  margin:30 px auto
 /* Container for history / modern / future */
 .sections {
   display: flex;      /* puts definitions in orderly row*/
   justify-content: center;       /* centers the row */
-  gap: 75px;                     /* space between each word*/
-  margin-top: 25px;
+  gap: 120px;                     /* space between each word*/
+  margin-top: 40px;
 }
 /* Each column*/
-section-box {
+.section-box {
   text-align: center;
 }
 /* link under each column*/  
-section-box a {
+.section-box a {
   text-decoration: none;
   color:blue;
-  font-size:25px;
+  font-size:20px;
 }
 /* "Students:" label*/
-students-title {
+.students-title {
   margin-top: 50px;
   font-size:30px;
   font-weight:bold;
 }
 /* Names under "Students"*/
-students-list {
+.students-list {
   font-size:25px;
   margin-top:10px;
-  line-height:1.6;
+  line-height:2;
 }
 /* Modern Page Image*/
-modern-img {
+.modern-img {
   width: 400px;
   display:block;
   margin: 30px auto;
 }
 /* Main content for modern page*/
-content {
+.content {
   width: 80%
   margin: auto;
   text-align:left;
@@ -90,12 +90,7 @@ ol {
 h3 {
   margin-top:40px;
 }
-.main-photo {
-  width:95%;
-  max-width:1400px;
-  display: block;
-  margin:30 px auto;
-}
+
   
   
     
