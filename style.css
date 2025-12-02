@@ -8,23 +8,23 @@ body {
 }
   /* Style for big title*/
   h1 {
-    font-size: 32px;
-    margin-bottom: 10px;
+    font-size: 45px;
+    margin-bottom: 20px;
   }
   /* style for section titles*/
   h2 {
-    font-size: 26px;
-    margin-top: 20px;
+    font-size: 35px;
+    margin-top: 25px;
   }
 /* line under title*/
 topic {
-  font-size: 26px;
+  font-size: 35px;
   font-weight: bold;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 /*Abstract paragraph*/
 abstract {
-  font-size: 18px;
+  font-size: 32px;
   max-width: 800px;     /* paragraph is not too wide*/
   margin:10px auto;     /* centers the block*/
   line-height:1.5;      
@@ -36,8 +36,8 @@ abstract {
       margin-left: auto;
       margin-right: auto;
       margin-top: 20px;
-      width: 80%;
-      max-width: 900px;
+      width: 100%;
+      max-width: 1000px;
       
       
     }
@@ -56,25 +56,25 @@ section-box {
 section-box a {
   text-decoration: none;
   color:blue;
-  font-size:16px;
+  font-size:25px;
 }
 /* "Students:" label*/
 students-title {
-  margin-top: 40px;
-  font-size:22px;
+  margin-top: 50px;
+  font-size:30px;
   font-weight:bold;
 }
 /* Names under "Students"*/
 students-list {
-  font-size:18px;
+  font-size:25px;
   margin-top:10px;
   line-height:1.6;
 }
 /* Modern Page Image*/
 modern-img {
-  width: 300px;
+  width: 350px;
   display:block;
-  margin: 20px auto;
+  margin: 30px auto;
 }
 /* Main content for modern page*/
 content {
@@ -88,7 +88,7 @@ ol {
   margin-top: 15px;
 }
 h3 {
-  margin-top:30px;
+  margin-top:40px;
 }
   
   
