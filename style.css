@@ -23,5 +23,12 @@ body {
       margin-right: auto;
       margin-top: 20px;
     }
+/* Container for history / modern / future */
+sections {
+  display: flex;      /* puts definitions in orderly row*/
+  justify-content: center;       /* centers the row */
+  gap: 40px;                     /* space between each word*/
+  margin-top: 20px;
+}
     
   
