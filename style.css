@@ -49,11 +49,11 @@ abstract {
   margin-top: 25px;
 }
 /* Each column*/
-.section-box {
+.section {
   text-align: center;
 }
 /* link under each column*/  
-.section-box a {
+.section a {
   text-decoration: none;
   color:blue;
   font-size:20px;
