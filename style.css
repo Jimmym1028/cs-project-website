@@ -48,5 +48,28 @@ sections {
   gap: 75px;                     /* space between each word*/
   margin-top: 25px;
 }
+/* Each column*/
+section-box {
+  text-align: center;
+}
+/* link under each column*/  
+section-box a {
+  text-decoration: none;
+  color:blue;
+  font-size:16px;
+}
+/* "Students:" label*/
+students-title {
+  margin-top: 40px;
+  font-size:22px;
+  font-weight:bold;
+}
+/* Names under "Students"*/
+students-list {
+  font-size:18px;
+  margin-top:10px;
+  line-height:1.6;
+}
+  
     
   
