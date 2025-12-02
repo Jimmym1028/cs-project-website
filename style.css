@@ -45,8 +45,8 @@ abstract {
 .sections {
   display: flex;      /* puts definitions in orderly row*/
   justify-content: center;       /* centers the row */
-  gap: 120px;                     /* space between each word*/
-  margin-top: 40px;
+  gap: 225px;                     /* space between each word*/
+  margin-top: 25px;
 }
 /* Each column*/
 .section-box {
