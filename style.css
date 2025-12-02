@@ -79,8 +79,8 @@ modern-img {
 /* Main content for modern page*/
 content {
   width: 80%
-  margin:auto;
-  text-alighn:left;
+  margin: auto;
+  text-align:left;
   line-height: 1.5;
   font-size: 18px;
 }
