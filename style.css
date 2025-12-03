@@ -83,6 +83,8 @@ h1, h2, h3, p {
 .intro-row img {
     width: 400px;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 /* Paragraph next to image*/
 .intro-text {
