@@ -76,15 +76,15 @@ h1, h2, h3, p {
 }
 /*Image and paragrapgh side by side*/
 .intro-row {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin-top: 20px;
 }
 /*Modern page picture*/
 .intro-row img {
     width: 400px;
     height: auto;
-    display: block;
-    margin: 0 auto;
 }
 /* Paragraph next to image*/
 .intro-text {
