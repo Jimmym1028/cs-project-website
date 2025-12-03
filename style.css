@@ -46,7 +46,7 @@ abstract {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  gap:180px;
+  gap: 180px;
   margin-top: 25px;
 }
 /* Each column*/
