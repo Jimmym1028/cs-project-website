@@ -1,6 +1,11 @@
 body {
 
-    background-color: #ffffff;
+    background-image:url("Website background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
     color: #000000;
     font-family: Arial, sans-serif;
     text-align: center;
