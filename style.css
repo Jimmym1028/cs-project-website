@@ -40,7 +40,7 @@ abstract {
 .main-photo {
   width:95%;
   max-width:1200px;
-  margin:30 px auto
+  margin:30 px auto;
 /* Container for history / modern / future */
 .sections {
   display: flex;      /* puts definitions in orderly row*/
