@@ -38,9 +38,10 @@ abstract {
       margin-top: 22px; 
     }
 .main-photo {
-  width:95%;
-  max-width:1200px;
-  margin:30 px auto;
+  width: 95%;
+  max-width: 1200px;
+  margin: 30 px auto;
+}
 /* Container for history / modern / future */
 .sections-row {
   display: flex;
