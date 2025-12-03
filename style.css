@@ -62,3 +62,38 @@ h1, h2, h3, p {
     font-size: 28px;
     margin: 5px 0;
 }
+
+/* Modern Page Layout (Jimmy Maldonado)*/
+.content {
+    max-width :1100px;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+h1 {
+    margin-top:20px;
+}
+/*Image and paragrapgh side by side*/
+.intro-row {
+    display: flex
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 20px;
+}
+/*Modern page picture*/
+.intro-row img {
+    width:350px;
+    height: auto;
+}
+/* Paragraph next to image*/
+.intro-text {
+    text-align: left;
+}
+/* Numbered list under intro*/
+ol {
+    margin-top: 25px;
+    text-align: left;
+}
+/* Reference text*/
+h3 {
+    margin-top: 30px;
+}
