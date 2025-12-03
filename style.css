@@ -76,9 +76,7 @@ h1, h2, h3, p {
 }
 /*Image and paragrapgh side by side*/
 .intro-row {
-    display: flex
-    align-items: flex-start;
-    gap: 30px;
+    text-align: center;
     margin-top: 20px;
 }
 /*Modern page picture*/
