@@ -43,7 +43,9 @@ abstract {
   margin:30 px auto;
 /* Container for history / modern / future */
 .sections {
-  text-align:center; /* space between each word*/
+  display: flex;
+  justify-content: center;
+  gap:180px; /* space between each word*/
   margin-top: 25px;
 }
 /* Each column*/
