@@ -45,6 +45,7 @@ abstract {
 .sections {
   display: flex;
   justify-content: center;
+  align-items: flex-start;
   gap:180px;
   margin-top: 25px;
 }
