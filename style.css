@@ -45,15 +45,13 @@ abstract {
 .sections {
   display: flex;
   justify-content: center;
-  gap:180px; /* space between each word*/
-  margin-top: 25px;
+  gap:180px;
+  max-width:900x/* space between each word*/
+  margin: 0 auto;
 }
 /* Each column*/
 .section {
-  display: inline-block;
   text-align: center;
-  margin: 0 80px;
-  
 }
 /* link under each column*/  
 .section a {
@@ -78,6 +76,7 @@ abstract {
   width: 300px;
   display:block;
   margin: 30px auto;
+  max-width:100%
 }
 /* Main content for modern page*/
 .content {
