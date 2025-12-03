@@ -1,108 +1,48 @@
 body {
 
     background-color: #ffffff;
-
     color: #000000;
-
     font-family: Arial, sans-serif;
-
     text-align: center;
-
     margin: 0;
-
     padding: 20px;
-
 }
-
-
-
 /* Main image formatting */
-
 .main-photo {
-
     width: 95%;
-
     max-width: 1200px;
-
     display: block;
-
     margin: 30px auto;
-
 }
-
-
-
 /* Row for History / Modern / Future */
-
 .sections-row {
-
     display: flex;
-
     justify-content: space-around;
-
     align-items: center;
-
     margin-top: 25px;
-
 }
-
-
-
 /* Each column */
-
 .section-box {
-
     flex: 1;
-
     text-align: center;
-
 }
-
-
-
 /* Section links */
-
 .section-box a {
-
     color: #0055cc;
-
     text-decoration: none;
-
     font-size: 18px;
-
 }
-
-
-
 .section-box a:hover {
-
     text-decoration: underline;
-
 }
-
-
-
 /* Students header */
-
 .students-title {
-
     margin-top: 40px;
-
     font-size: 24px;
-
     font-weight: bold;
-
 }
-
-
-
 /* Student list items */
-
 .students-list {
-
     font-size: 18px;
-
     margin: 5px 0;
-
 }
-
