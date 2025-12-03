@@ -46,8 +46,7 @@ abstract {
   display: flex;
   justify-content: center;
   gap:180px;
-  max-width:900x/* space between each word*/
-  margin: 0 auto;
+  margin-top: 25px;
 }
 /* Each column*/
 .section {
@@ -61,35 +60,36 @@ abstract {
 }
 /* "Students:" label*/
 .students-title {
-  margin-top: 50px;
-  font-size:30px;
+  margin-top: 40px;
+  font-size:24px;
   font-weight:bold;
 }
 /* Names under "Students"*/
 .students-list {
-  font-size:25px;
+  font-size:20px;
   margin-top:10px;
-  line-height:2;
+  line-height:1.8;
 }
 /* Modern Page Image*/
 .modern-img {
-  width: 300px;
-  display:block;
-  margin: 30px auto;
-  max-width:100%
+  display: block;
+  margin: 20px auto;
+  width: 400px;
+  max-width:100%;
 }
 /* Main content for modern page*/
 .content {
   width: 80%
-  margin: auto;
+    max-width: 900px;
+  margin: 10px auto 40px auto;
   text-align:left;
   line-height: 1.5;
   font-size: 18px;
 }
-ol {
+.content ol {
   margin-top: 15px;
 }
-h3 {
+.content h3 {
   margin-top:40px;
 }
 
