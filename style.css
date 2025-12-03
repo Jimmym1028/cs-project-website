@@ -48,7 +48,10 @@ abstract {
 }
 /* Each column*/
 .section {
+  display: inline-block;
   text-align: center;
+  margin: 0 80px;
+  
 }
 /* link under each column*/  
 .section a {
