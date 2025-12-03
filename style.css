@@ -43,9 +43,7 @@ abstract {
   margin:30 px auto;
 /* Container for history / modern / future */
 .sections {
-  display: flex;      /* puts definitions in orderly row*/
-  justify-content: center;       /* centers the row */
-  gap: 225px;                     /* space between each word*/
+  text-align:center; /* space between each word*/
   margin-top: 25px;
 }
 /* Each column*/
