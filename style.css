@@ -68,8 +68,10 @@ h1, h2, h3, p {
     max-width :1100px;
     margin: 0 auto;
     padding: 20px 30px;
+    text-align: left;
 }
-h1 {
+.content h1 {
+    text-align: center;
     margin-top:20px;
 }
 /*Image and paragrapgh side by side*/
@@ -81,7 +83,7 @@ h1 {
 }
 /*Modern page picture*/
 .intro-row img {
-    width:350px;
+    width: 400px;
     height: auto;
 }
 /* Paragraph next to image*/
