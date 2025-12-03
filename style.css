@@ -44,14 +44,14 @@ abstract {
 /* Container for history / modern / future */
 .sections-row {
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
+  justify-content: space around;
+  align-items: center;
   gap: 180px;
-  margin-top: 25px;
+  margin-top: 20px;
 }
 /* Each column*/
 .section-box {
-  text-align: center;
+  flex: 1;
 }
 /* link under each column*/  
 .section-box a {
