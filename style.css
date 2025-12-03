@@ -6,7 +6,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     
-    color: #000000;
+    color: white;
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
@@ -44,7 +44,7 @@ body {
 
 .section-box a {
 
-    color: black;
+    color: white;
     text-decoration: none;
     font-size: 18px;
 }
