@@ -95,6 +95,11 @@ ol {
     margin-top: 25px;
     text-align: left;
 }
+
+ol li {
+    margin-bottom: 15px;
+    text-align:left;
+}
 /* Reference text*/
 h3 {
     margin-top: 30px;
